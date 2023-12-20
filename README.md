@@ -10,6 +10,7 @@ Install all NPM packages(npm install). To seed the database and give a base to w
 ## Usage
 To use this database in insomia, pick your method (GET, POST, PUT, OR DELETE) and enter the required params to help you add/update/view or delete products, categories, or tags!
 
+Here is a short video showing the functionality of this program: https://drive.google.com/file/d/1R-lGeW7Pv-nv1hicR6zulEbZqIzc0Zaq/view?usp=sharing
 
 ## Credits
 I used the coursework from week 13 for reference on this projects, as well as help from my tutor Josshy Olea.
